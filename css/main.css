@@ -1,0 +1,25 @@
+html {
+  background-color: #f0eee8;
+  font-family: "Dosis", Georgia, serif, sans-serif;
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+
+}
+
+h1 {
+
+}
+
+.link-card {
+  font-style: italic;
+}
+
+.link-card:hover {
+
+}
